@@ -1,5 +1,5 @@
 *******************************************************
-Geofferson Camp  #0658817
+Geofferson Camp 
 CIS*2500		   Assignement 2 - Logo Interpreter
 February 13th, 2015
 *******************************************************
