@@ -1,7 +1,7 @@
 *******************************************************
 Geofferson Camp 
-CIS*2500		   Assignement 2 - Logo Interpreter
-February 13th, 2015
+Logo Interpreter
+Feb 2015
 *******************************************************
 
 ************
@@ -76,6 +76,5 @@ Sources
 
 - nCurses functions referenced from linux.die.net/man
 - nCurses colour features referenced from tldp.org/HOWTO/NCURSES-Programming-HOWTO/color.html
-- drawBoard approach taken from Dr. McCuaig's nCursesExample files.
 - Logo Interpreter referenced from www.calormen.com/jslogo
 
